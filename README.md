@@ -30,3 +30,10 @@ Go to http://bookmarklets.org/maker/ and paste JavaScript code. Then simply drag
       - Notes
       - Activity Type (Running, Biking, Other, MultiSport)
       - etc. 
+
+- Export as GPX
+    - export your Strava activity in GPX format
+    - GPX = GPS Exchange Format contains...
+      - Latitude
+      - Longitude
+      - Altitude
